@@ -1,4 +1,4 @@
-# Portfolio Website - Alisha Sharma
+# Portfolio Website - Ananya Sarkar
 
 A modern, responsive portfolio website built with Next.js 14, TypeScript, and Tailwind CSS. This website showcases projects, skills, and personal information in a clean, professional design.
 
