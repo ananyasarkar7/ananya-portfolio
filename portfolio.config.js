@@ -6,7 +6,7 @@
 
 const portfolioConfig = {
   // === Personal Information ===
-  name: "Alisha Sharma",
+  name: "Ananya",
   bio: "A first-year Computer Science student with a passion for creating beautiful and functional web experiences. I'm currently exploring the world of front-end development and am excited to learn and grow my skills.",
   profileImage: "/images/profile-picture.png", // Path to a friendly, professional-looking photo
   location: "Mumbai, India",
