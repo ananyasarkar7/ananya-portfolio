@@ -58,8 +58,8 @@ const portfolioConfig = {
   // === Website Configuration ===
   // For SEO and metadata
   seo: {
-    title: "Alisha Sharma | Aspiring Developer",
-    description: "The personal portfolio of Alisha Sharma, a first-year computer science student.",
+    title: "Ananya sarkar| Aspiring Developer",
+    description: "The personal portfolio of Ananya sarkar, a first-year computer science student.",
   }
 };
 
