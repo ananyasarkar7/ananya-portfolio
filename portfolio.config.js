@@ -10,23 +10,22 @@ const portfolioConfig = {
   bio: "A first-year Computer Science student with a passion for creating beautiful and functional web experiences. I'm currently exploring the world of front-end development and am excited to learn and grow my skills.",
   profileImage: "/images/profile-picture.png", // Path to a friendly, professional-looking photo
   location: "VIshakhapatnam, India",
-  email: "hello@ananyasarkar.dev",
+  email: "ananyasarkar0507@gmail.com",
 
   // === Social Media Links ===
   // Add or remove links as needed
   socials: [
-    { name: "GitHub", url: "https://github.com/your-username" },
-    { name: "LinkedIn", url: "https://linkedin.com/in/your-username" },
+    { name: "GitHub", url: " https://github.com/ananyasarkar7" },
+    { name: "LinkedIn", url: " https://www.linkedin.com/in/ananya-sarkar-9376ba31a/" },
     { name: "Twitter", url: "https://twitter.com/your-username" },
   ],
 
   // === Skills ===
   // Categorize skills for better presentation
   skills: {
-    "Languages": ["JavaScript (ES6+)", "Python", "HTML5", "CSS3"],
-    "Frameworks & Libraries": ["React", "Next.js", "Tailwind CSS"],
-    "Tools & Platforms": ["Git & GitHub", "VS Code", "Figma"],
-    "Currently Learning": ["TypeScript", "Node.js"]
+    "Languages": ["Python", "HTML", "C"],
+    "Tools & Platforms": ["Git & GitHub"],
+    "Currently Learning": [" Git & GitHub"]
   },
 
   // === Projects ===
