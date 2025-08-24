@@ -36,16 +36,10 @@ const portfolioConfig = {
     title: "Photography Portfolio",
     description: "A showcase of my best photography work, organized by theme and category.",
     tags: ["Photography", "Creative"],
-    link: "https://your-portfolio-link.com",
-    github: null, // if no repo
+    link: "https://your-portfolio-link.com", // if no repo
   },
   {
-    title: "Mental Health App",
-    description: "A simple Kotlin-based app focused on mental health journaling and mood tracking.",
-    tags: ["Kotlin", "Android", "Mental Health"],
-    link: null,
-    github: "https://github.com/your-username/mental-health-app",
-  }
+  
     
   ],
 
