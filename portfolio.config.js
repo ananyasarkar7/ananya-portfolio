@@ -36,7 +36,7 @@ const portfolioConfig = {
     title: "Photography Portfolio",
     description: "A showcase of my best photography work, organized by theme and category.",
     tags: ["Photography", "Creative"],
-    link: "https://your-portfolio-link.com", // if no repo
+     // if no repo
   },
   {
   
