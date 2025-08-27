@@ -9,7 +9,7 @@ const portfolioConfig = {
   name: "Ananya Sarkar",
   bio: "A first-year Computer Science student with a passion for creating beautiful and functional web experiences. I'm currently exploring the world of front-end development and am excited to learn and grow my skills.",
   profileImage: "/images/profile-picture.png", // Path to a friendly, professional-looking photo
-  location: "VIshakhapatnam, India",
+  location: "Vishakhapatnam, India",
   email: "ananyasarkar0507@gmail.com",
 
   // === Social Media Links ===
@@ -28,9 +28,8 @@ const portfolioConfig = {
     "Currently Learning": [" Git & GitHub"]
   },
 
-  // === Projects ===
-  // Add up to 3-4 of her best projects.
-  projects: [
+ 
+  
 
   {
     title: "Photography Portfolio",
@@ -38,7 +37,7 @@ const portfolioConfig = {
     tags: ["Photography", "Creative"],
      // if no repo
   },
-  {
+
   
     
   },
