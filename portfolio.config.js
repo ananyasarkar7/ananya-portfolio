@@ -41,7 +41,7 @@ const portfolioConfig = {
   {
   
     
-  ],
+  },
 
   // === Website Configuration ===
   // For SEO and metadata
