@@ -3,14 +3,27 @@
 /**
  * @type {import('next').NextConfig}
  */
-
 const portfolioConfig = {
-  // === Personal Information ===
   name: "Ananya Sarkar",
   bio: "A first-year Computer Science student with a passion for creating beautiful and functional web experiences. I'm currently exploring the world of front-end development and am excited to learn and grow my skills.",
-  profileImage: "/images/profile-picture.png", // Path to a friendly, professional-looking photo
-  location: "Vishakhapatnam, India",
-  email: "ananyasarkar0507@gmail.com",
+  profileImage: "/images/profile-picture.png",
+  location: "Vishakhapatnam, India", // keep your spelling (or use "Visakhapatnam")
+  
+  "Currently Learning": ["Git & GitHub"],
+
+  // === Projects ===
+  projects: [
+    {
+      title: "Photography Portfolio",
+      description:
+        "A showcase of my best photography work, organized by theme and category.",
+      tags: ["Photography", "Creative"],
+      // repo: "",   // optional
+      // demo: ""    // optional
+    }
+    // add more projects here as more objects
+  ],
+};
 
   // === Social Media Links ===
   // Add or remove links as needed
@@ -29,18 +42,7 @@ const portfolioConfig = {
   },
 
  
-  
 
-  {
-    title: "Photography Portfolio",
-    description: "A showcase of my best photography work, organized by theme and category.",
-    tags: ["Photography", "Creative"],
-     // if no repo
-  },
-
-  
-    
-  },
 
   // === Website Configuration ===
   // For SEO and metadata
